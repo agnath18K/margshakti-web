@@ -5,10 +5,9 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "export": "next export",
     "start": "next start",
     "lint": "eslint",
-    "deploy": "npm run build && npm run export && firebase deploy"
+    "deploy": "npm run build && firebase deploy"
   },
   "dependencies": {
     "@hookform/resolvers": "^5.2.2",
