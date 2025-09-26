@@ -47,7 +47,7 @@ export const eventData = {
   stats: [
     { value: "2", label: "Days", suffix: "" },
     { value: "10", label: "Sessions", suffix: "+" },
-    { value: "50", label: "Speakers", suffix: "+" },
+    { value: "20", label: "Speakers", suffix: "+" },
     { value: "Oct 20", label: "Poster Deadline", suffix: "", isDate: true }
   ],
 
@@ -55,7 +55,7 @@ export const eventData = {
     "MoRTH Freight Planning Manual Launch",
     "AI-Powered Highway Solutions",
     "Industry-Academia Collaboration",
-    "Strategic Defence Integration"
+    "Young Researchers's Symposium of Innovative Solutions"
   ]
 };
 
@@ -71,8 +71,8 @@ export const sessionsData = {
         type: "keynote",
         backgroundImage: "/images/sessions/inaugural.jpg",
         speakers: [
-          "Secretary, MoRTH (Chief Guest)",
-          "DG (Road Development), MoRTH",
+          "Invited Chief Guest #1 (MoRTH)",
+          "Invited Chief Guest #2 (MoRTH)",
           "Director, IIT (BHU)"
         ],
         launches: [
@@ -100,7 +100,7 @@ export const sessionsData = {
         backgroundImage: "/images/sessions/ai-tech.jpg",
         chair: "Invited Speaker #5 (IIT BHU)",
         panelists: [
-          "Invited Speaker #6 (MapmyIndia/Ola)",
+          "Invited Speaker #6 (DFCCIL)",
           "Invited Speaker #7 (NICDC)",
           "Invited Speaker #8 (ITSPE)"
         ],
@@ -113,9 +113,9 @@ export const sessionsData = {
         backgroundImage: "/images/sessions/freight.jpg",
         chair: "Invited Speaker #9 (DFCCIL)",
         panelists: [
-          "Invited Speaker #10 (GMRCL)",
+          "Invited Speaker #10 (Trucking Company #1)",
           "Invited Speaker #11 (Deloitte)",
-          "Invited Speaker #12 (BlackBuck/Rivigo)",
+          "Invited Speaker #12 (Trucking Company #2)",
           "Invited Speaker #13 (World Bank/ADB)"
         ],
         launch: "Inland Water Transport Mode Shift Study Report"
