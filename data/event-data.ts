@@ -85,7 +85,7 @@ export const sessionsData = {
         time: "11:15 - 12:45",
         title: "RashtraPath – Highways as the Arteries of India",
         backgroundImage: "/images/sessions/highways.jpg",
-        chair: "Invited Speaker #1 (Arcadis)",
+        chair: "Invited Speaker #1 (Industry Leader)",
         panelists: [
           "Invited Speaker #2 (NICDC)",
           "Invited Speaker #3 (MoRTH)",
@@ -191,7 +191,7 @@ export const sessionsData = {
         backgroundImage: "/images/sessions/roadmap.jpg",
         focus: "Forward-looking plenary with stakeholder commitments",
         type: "keynote",
-        speakers: ["Secretary MoRTH", "Director IIT BHU", "Industry Leaders"]
+        speakers: ["MoRTH Officials", "Director IIT BHU", "Industry Leaders"]
       }
     ]
   }

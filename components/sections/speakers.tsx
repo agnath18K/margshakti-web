@@ -6,7 +6,7 @@ import { partnersData } from "@/data/event-data"
 const speakersData = [
   { id: 1, name: "MoRTH Chief Guest #1", designation: "Chief Guest", category: "Government", initials: "CG1" },
   { id: 2, name: "MoRTH Chief Guest #2", designation: "Chief Guest", category: "Government", initials: "CG2" },
-  { id: 3, name: "Invited Speaker #1", designation: "Arcadis", category: "Industry", initials: "IS1" },
+  { id: 3, name: "Invited Speaker #1", designation: "Industry Leader", category: "Industry", initials: "IS1" },
   { id: 4, name: "Invited Speaker #2", designation: "NICDC", category: "Industry", initials: "IS2" },
   { id: 5, name: "Invited Speaker #3", designation: "DFCCIL", category: "Industry", initials: "IS3" },
   { id: 6, name: "Invited Speaker #4", designation: "Trucking Company #1", category: "Industry", initials: "IS4" },

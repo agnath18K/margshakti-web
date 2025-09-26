@@ -57,7 +57,7 @@ export function LaunchesSection() {
             </p>
             <div className="flex justify-center gap-12">
               <div>
-                <p className="text-3xl font-bold">{launchesData.length}</p>
+                <p className="text-3xl font-bold">10+</p>
                 <p className="text-sm text-muted-foreground">Products</p>
               </div>
               <div className="w-px bg-border" />
